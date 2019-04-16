@@ -1,0 +1,4 @@
+## .gitignore file for libigl-scaffold
+
+## ignore folder fetched through gclient
+libigl
